@@ -26,7 +26,7 @@ Security wise, it was pretty scary.
 - abi.encode (create more data)
 - abi.encodePacked (create less data)
 
-==Hints== for encodePacked
+`Hints:` for encodePacked
 
 - Might generate `hash collision`
 - Meaning of hash collision is different input generate same hash
